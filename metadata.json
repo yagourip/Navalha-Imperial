@@ -1,0 +1,6 @@
+{
+  "name": "Navalha Imperial - Agendamento Barbearia",
+  "description": "Sistema moderno de agendamento online de barbearia com escolha de profissional, horário, serviço e integração com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
